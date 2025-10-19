@@ -1,0 +1,2 @@
+Reason 1, if we have a parent class to many child classes it allows us to reuse code and avoid remaking the same functions for multiple objects that could just use the same function.
+Reason 2, it allows us to creat a sort of hierarchy of classes allowing for expandbility and organization of our code.
